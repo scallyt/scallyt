@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scallyt</h1>
 <h3 align="center">I am a programming student and have been studying web development for several years</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java and VueJS**
 
 - ⚡ Fun fact **I am an anime lover**
 
