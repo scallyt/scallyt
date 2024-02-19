@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scallyt</h1>
 <h3 align="center">I am a programming student and have been studying web development for several years</h3>
 
-- 🔭 I’m currently working on [Animal-Tracking-App](https://github.com/scallyt/RanchWare)
+- 🔭 I’m currently working on [RanchWare](https://github.com/scallyt/RanchWare)
 
 - 🌱 I’m currently learning **NestJs, ReactJS**
 
