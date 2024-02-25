@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RanchWare](https://github.com/scallyt/RanchWare)
 
-- 🌱 I’m currently learning **NestJs, ReactJS**
+- 🌱 I’m currently learning **NestJs, SvelteKit**
 
 - ⚡ Fun fact **I am an anime lover**
 
